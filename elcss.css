@@ -1,0 +1,16 @@
+*{
+	font-family: cursive;
+	background-color: brown;
+}
+
+div{
+	display:block;
+	text-align: center;
+}
+img{
+	max-width: 90%;
+}
+h1{
+	color: white;
+	text-decoration: underline;
+}
